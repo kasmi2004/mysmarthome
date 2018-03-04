@@ -17,4 +17,8 @@ sudo apt-get install python-pip python-dev nginx
 Install Flask and uWSGI:
 pip install uwsgi flask
 
+my smart plant:
 ![pic1](/docs/IMG_1.jpg)
+
+candy dispencer:
+![pic1](/docs/IMG_2.jpg)
