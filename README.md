@@ -17,4 +17,6 @@ sudo apt-get install python-pip python-dev nginx
 Install Flask and uWSGI:
 pip install uwsgi flask
 
+![Optional Text](../docs/img1.png)
+
 
